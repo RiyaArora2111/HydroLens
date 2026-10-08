@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hackathon-Schneider%20Electric%20Yuva%20Yodha-00D2FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Challenge-01%20%7C%20Sustainable%20Agriculture-00E5C0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
